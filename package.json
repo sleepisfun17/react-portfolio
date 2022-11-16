@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sleepisfun17.github.io/portfolio-react-ver/",
-  "name": "personal-portfolio",
+  "homepage": "https://sleepisfun17.github.io/react-portfolio/",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
